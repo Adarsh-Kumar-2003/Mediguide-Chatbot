@@ -3,6 +3,7 @@
 This project fine-tunes the `microsoft/DialoGPT-large` model using **LoRA (Low-Rank Adaptation)** and compares it with **Prompt Tuning** approaches on a medical Q&A dataset ([MedQuad](https://huggingface.co/datasets/keivalya/MedQuad-MedicalQnADataset)).
 
 ---
+##Depolyed link:- https://huggingface.co/spaces/Adarsh123rv12/medical-chatbot
 
 ## 🧪 Objective
 
