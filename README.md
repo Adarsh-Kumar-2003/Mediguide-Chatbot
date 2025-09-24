@@ -32,7 +32,7 @@ Evaluated on 100 samples using the Hugging Face `evaluate` library.
 |---------------|---------------|
 | **Perplexity**     | 56.38          |
 | **ROUGE-L Score**  | 0.9893         |
-| **Avg Latency**    | 2.706 sec / query |
+| **Avg Latency**    | 1.706 sec / query |
 | **Model Size**     | 1647.34 MB    |
 
 ---
